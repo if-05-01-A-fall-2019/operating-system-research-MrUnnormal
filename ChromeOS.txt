@@ -1,0 +1,6 @@
+Jan Kaufmann 3AHIF
+
+1.
+Chrome OS is desigend by Google and is based on a Linux Kernel. It is derived from the free opensource Chromium OS.
+The main user interface is the Chrome web browser so it primarily uses web applications. Chrome OS was announced in July 2009
+as a operating system in wich both applications and user data is stored in the cloud. 
