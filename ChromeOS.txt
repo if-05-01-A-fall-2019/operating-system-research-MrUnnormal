@@ -3,4 +3,10 @@ Jan Kaufmann 3AHIF
 1.
 Chrome OS is desigend by Google and is based on a Linux Kernel. It is derived from the free opensource Chromium OS.
 The main user interface is the Chrome web browser so it primarily uses web applications. Chrome OS was announced in July 2009
-as a operating system in wich both applications and user data is stored in the cloud. 
+as a operating system in wich both applications and user data is stored in the cloud. It features an integrated media players 
+and a file manager. It also has support for Chrome Apps (form Chrome web store) since 2016 Android apps from the Google Play store
+are available. Officialy Chrome OS is only available pre-installed on Chromebooks but there are ways to install it on other devices.
+
+2.
+A special feature form Chrome OS is that it can run apps from three different operating systems, namely Linux, Android and Windows in 
+the same session and side by side without rebooting or a mulit-boot system. That means Chrome OS is the most versatile operating system.
